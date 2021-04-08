@@ -6,7 +6,7 @@ Some experiments with AI/ML using TensorFlow, among others.
 
 ### Contextual Spell Check with spaCy
 
-[GitHub Source](https://github.com/mattmoore/ai-playground/tree/main/nlp/contextual-spell-check)
+[![GitHub Source](images/GitHub-Mark-32px.png)](https://github.com/mattmoore/ai-playground/tree/main/nlp/contextual-spell-check)
 
 ### BERT Word Embedding
 
