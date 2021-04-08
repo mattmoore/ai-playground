@@ -1,4 +1,4 @@
 # Natural Language Processing Examples
 
-- [Contextual Spell Check](contextual_spell_check.py)
+- [Contextual Spell Check](contextual-spell-check)
 - [BERT Embeddings](Bert_Embeddings.ipynb)
